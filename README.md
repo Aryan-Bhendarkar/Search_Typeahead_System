@@ -6,7 +6,7 @@ A high-performance, real-time search autocomplete and typeahead suggestion syste
 
 
 
-![Search Suggestions UI](image-1.png)
+![Search Suggestions UI](image.png)
 *Main search interface with real-time suggestions.*
 
 
